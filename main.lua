@@ -30,7 +30,7 @@ local function LoadGameTabs()
                 game = game,
                 _G = _G,
                 Rayfield = Rayfield,
-		task = task
+		task = task,
 		game.PlaceID = PlaceID
             })
             pcall(func)
