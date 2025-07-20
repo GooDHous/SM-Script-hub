@@ -11,33 +11,9 @@ local Window = Rayfield:CreateWindow({
         FileName = "Config"
     }
 })
-local function LoadGameTabs()
-    local placeId = game.PlaceId
-    local url = "https://raw.githubusercontent.com/GooDHous/SM-Scripts/main/"..placeId..".lua"
-    
-    -- Пробуем загрузить
-    local success, content = pcall(function()
-        return game:HttpGet(url, true)
-    end)
-    
-    -- Если загрузилось - выполняем
-    if success and content and #content > 20 then
-        local func = loadstring(content)
-        if func then
-            -- Передаем только самое необходимое
-            setfenv(func, {
-                Window = Window,
-                game = game,
-                _G = _G,
-                Rayfield = Rayfield,
-		task = task
-            })
-            pcall(func)
-        end
-    end
-end
--- Базовые вкладки
-task.spawn(LoadGameTabs)
+
+
+
 local universal = Window:CreateTab("Universal", 4483362458)
 local misc = Window:CreateTab("Misc", 4483362458)
 local SettingsTab = Window:CreateTab("Settings", 4483362458)
@@ -130,6 +106,32 @@ SettingsTab:CreateButton({
 })
 
 
+local function LoadGameTabs()
+    local placeId = game.PlaceId
+    local url = "https://raw.githubusercontent.com/GooDHous/SM-Scripts/main/"..placeId..".lua"
+    
+    -- Пробуем загрузить
+    local success, content = pcall(function()
+        return game:HttpGet(url, true)
+    end)
+    
+    -- Если загрузилось - выполняем
+    if success and content and #content > 20 then
+        local func = loadstring(content)
+        if func then
+            -- Передаем только самое необходимое
+            setfenv(func, {
+                Window = Window,
+                game = game,
+                _G = _G,
+                Rayfield = Rayfield,
+		task = task
+            })
+            pcall(func)
+        end
+    end
+end
+task.spawn(LoadGameTabs)
 
 
 
