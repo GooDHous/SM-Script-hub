@@ -107,7 +107,7 @@ universal:CreateButton({
 misc:CreateButton({
     Name = "Infinity Yield",
     Callback = function()
-        loadstring(game:HttpGet('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'))()
+        loadstring(game:HttpGet('https://raw.githubusercontent.com/edgeiy/infiniteyield/master/source'))()
     end
 })
 
