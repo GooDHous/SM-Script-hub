@@ -30,14 +30,14 @@ local function LoadGameTabs()
                 game = game,
                 _G = _G,
                 Rayfield = Rayfield,
-				task = task
+		task = task
             })
             pcall(func)
         end
     end
 end
 -- Базовые вкладки
-task.delay(2, LoadGameTabs)
+task.spawn(LoadGameTabs)
 local universal = Window:CreateTab("Universal", 4483362458)
 local misc = Window:CreateTab("Misc", 4483362458)
 local SettingsTab = Window:CreateTab("Settings", 4483362458)
