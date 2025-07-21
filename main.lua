@@ -22,6 +22,8 @@ local SettingsTab = Window:CreateTab("Settings", 4483362458)
 local funSection = universal:CreateSection("Player Functions")
 local toolsSection = misc:CreateSection("Tools")
 
+
+
 -- Infinite Jump
 local infiniteJumpEnabled = false
 universal:CreateToggle({
@@ -125,7 +127,9 @@ local function LoadGameTabs()
                 game = game,
                 _G = _G,
                 Rayfield = Rayfield,
-		task = task
+		task = task,
+		Character = Character,
+		v = v
             })
             pcall(func)
         end
