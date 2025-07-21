@@ -128,7 +128,6 @@ local function LoadGameTabs()
                 _G = _G,
                 Rayfield = Rayfield,
 		task = task,
-		Character = Character,
 		v = v
             })
             pcall(func)
