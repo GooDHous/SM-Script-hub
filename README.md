@@ -3,7 +3,7 @@
 ## Table of Contents
 - [Features](#Features)
   - [Universal Features](#Universal-Features-🛠)
-  - [Game-Specific Scripts](#Game-Specific-Scripts)
+  - [Game-Specific Scripts](#Game-Specific-Scripts-🎮)
     - [⛏️ Dig to Earth's CORE](#81440632616906)
 - [Usage](#usage)
 
