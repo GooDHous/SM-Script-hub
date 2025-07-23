@@ -27,4 +27,4 @@
 | House Teleport | Teleport to any house |
 | Animation Hack | Custom animations |
 
-## [Usage 💻]{#usage}
+## [Usage 💻](#usage)
