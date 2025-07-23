@@ -7,9 +7,9 @@
     - [⛏️ Dig to Earth's CORE](#81440632616906)
 - [Usage](#usage)
 
-## [Features]{#features}
+## [Features]
 
-### [Universal Features 🛠️]{#universal-features}
+### [Universal Features 🛠️]
 | Feature | Description |
 |---------|-------------|
 | **Player** | Speed, Jump Power, Noclip, Fly, Infinite Jump |
@@ -17,9 +17,9 @@
 | **Camera** | FOV Changer |
 | **UI Customization** | Themes, Config Saving |
 
-### [Game-Specific Scripts 🎮]{#game-specific-scripts}
+### [Game-Specific Scripts 🎮]
 
-### [⛏️ Dig to Earth's CORE!](https://www.roblox.com/games/81440632616906/Dig-to-Earths-CORE){#81440632616906}
+### [⛏️ Dig to Earth's CORE!](https://www.roblox.com/games/81440632616906/Dig-to-Earths-CORE)
 | Feature | Description |
 |---------|-------------|
 | Money Farm | Auto-money collection |
@@ -27,4 +27,4 @@
 | House Teleport | Teleport to any house |
 | Animation Hack | Custom animations |
 
-## [Usage 💻](#usage)
+## [Usage 💻]
