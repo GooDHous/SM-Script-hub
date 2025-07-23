@@ -22,9 +22,6 @@
 ### [⛏️ Dig to Earth's CORE!](https://www.roblox.com/games/81440632616906/Dig-to-Earths-CORE)
 | Feature | Description |
 |---------|-------------|
-| Money Farm | Auto-money collection |
-| Car Mods | Speed, No Collision |
-| House Teleport | Teleport to any house |
-| Animation Hack | Custom animations |
+| Farming | Auto Chest farm, Auto Gem farm, Auto cash farm, Auto Triple Dominus farm, Unlimited spins |
 
 ## Usage 💻
