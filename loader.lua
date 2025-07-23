@@ -54,9 +54,8 @@ local function main()
 end
 
 
-task.delay(2, function()
-    local success, err = pcall(main)
-    if not success then
-        warn("Error loading script:", err)
-    end
-end)
+
+local success, err = pcall(main)
+if not success then
+    warn("Error loading script:", err)
+end
