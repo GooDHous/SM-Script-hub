@@ -4,7 +4,7 @@
 - [Features](#features)
   - [Universal Features](#universal-features)
   - [Game-Specific Scripts](#game-specific-scripts)
-    - [⛏️ Dig to Earth's CORE](#81440632616906))
+    - [⛏️ Dig to Earth's CORE](#81440632616906)
 - [Usage](#usage)
 
 ## [Features]{#features}
