@@ -26,5 +26,8 @@
 | Farming | Auto Chest farm, Auto Gem farm, Auto cash farm, Auto Triple Dominus farm, Unlimited spins |
 
 ## Usage 💻
+```lua
+
+```
 
 ## Credits
