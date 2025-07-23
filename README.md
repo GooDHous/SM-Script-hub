@@ -31,11 +31,11 @@ loadstring(game:HttpGet('https://raw.githubusercontent.com/GooDHous/SM-Script-hu
 ```
 
 ## Credits
-- SM-Team
-  - Spotymine9022, SpotyMine9022A (Weh)
-  - SpotyMine9022B (GooDHous, DocFreeman)
-  - SpotyMine9022C (IIOHTIb_HA_MECTE)
-- Made with RayField UI
-- Used scripts:
-  - Fly menu by Me_ozoneYT
-  - infinity yield by EdgeIY
+\- SM-Team
+  \- Spotymine9022, SpotyMine9022A (Weh)
+   |- SpotyMine9022B (GooDHous, DocFreeman)
+  /- SpotyMine9022C (IIOHTIb_HA_MECTE)
+/- Made with RayField UI
+\- Used scripts:
+  \- Fly menu by Me_ozoneYT
+  |- infinity yield by EdgeIY
