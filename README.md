@@ -27,7 +27,7 @@
 
 ## Usage 💻
 ```lua
-
+loadstring(game:HttpGet('https://raw.githubusercontent.com/GooDHous/SM-Script-hub/main/loader.lua'))()
 ```
 
 ## Credits
