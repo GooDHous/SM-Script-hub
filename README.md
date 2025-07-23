@@ -6,6 +6,7 @@
   - [Game-Specific Scripts](#game-specific-scripts-)
     - [⛏️ Dig to Earth's CORE](#%EF%B8%8F-dig-to-earths-core)
 - [Usage](#usage-)
+- [Credits](#credits)
 
 ## Features
 
@@ -25,3 +26,5 @@
 | Farming | Auto Chest farm, Auto Gem farm, Auto cash farm, Auto Triple Dominus farm, Unlimited spins |
 
 ## Usage 💻
+
+## Credits
