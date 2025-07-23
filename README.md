@@ -1,8 +1,8 @@
 # SM-Script Hub 🌟
 
 ## Table of Contents
-- [Features](#features)
-  - [Universal Features](#universal-Features-🛠)
+- [Features](#Features)
+  - [Universal Features](#Universal-Features-🛠)
   - [Game-Specific Scripts](#game-specific-scripts)
     - [⛏️ Dig to Earth's CORE](#81440632616906)
 - [Usage](#usage)
