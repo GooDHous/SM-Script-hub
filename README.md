@@ -3,7 +3,7 @@
 ## Table of Contents
 - [Features](#features)
   - [Universal Features](#universal-features-)
-  - [Game-Specific Scripts](#game-specific-scripts-)
+  - [Game-Specific Scripts](#game-specific-features-)
     - [⛏️ Dig to Earth's CORE](#%EF%B8%8F-dig-to-earths-core)
 - [Usage](#usage-)
 - [Credits](#credits)
@@ -18,7 +18,7 @@
 | **Camera** | FOV Changer |
 | **UI Customization** | Themes, Config Saving |
 
-### Game-Specific Scripts 🎮
+### Game-Specific Features 🎮
 
 ### [⛏️ Dig to Earth's CORE!](https://www.roblox.com/games/81440632616906/Dig-to-Earths-CORE)
 | Section | Features |
