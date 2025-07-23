@@ -7,9 +7,9 @@
     - [⛏️ Dig to Earth's CORE](#81440632616906)
 - [Usage](#usage)
 
-## [Features]
+## Features
 
-### [Universal Features 🛠]
+### Universal Features 🛠
 | Feature | Description |
 |---------|-------------|
 | **Player** | Speed, Jump Power, Noclip, Fly, Infinite Jump |
